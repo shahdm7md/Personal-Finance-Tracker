@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1768331508 source:c:\users\shahd\onedrive\documents\oop\project\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cstdio>
+	<ctime>
+	<limits>
+
